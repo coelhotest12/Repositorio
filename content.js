@@ -48,10 +48,10 @@ window.SITE_CONTENT = {
  },
  "header": {
   "logo": {
-   "src": "assets/bunny-monogram-dark.webp",
+   "src": "assets/uploads/2-removebg-preview-bit7a.webp",
    "alt": "Bunny Arts",
-   "w": 717,
-   "h": 700
+   "w": 500,
+   "h": 500
   },
   "cta": {
    "label": "Orçamento",
@@ -102,12 +102,6 @@ window.SITE_CONTENT = {
   },
   "marquee": [
    {
-    "src": "assets/sm-instagram-1.webp",
-    "alt": "Post do Matheus Ferraz sobre a nova identidade do Instagram",
-    "w": 720,
-    "h": 900
-   },
-   {
     "src": "assets/sm-gigantes.webp",
     "alt": "Capa de carrossel da Imagine Company: 6 gigantes que movem o mundo",
     "w": 720,
@@ -118,12 +112,6 @@ window.SITE_CONTENT = {
     "alt": "Capa do carrossel editorial de Matheus Ferraz",
     "w": 1080,
     "h": 1440
-   },
-   {
-    "src": "assets/ca-pais.webp",
-    "alt": "Criativo de Dia dos Pais da Imagine Company",
-    "w": 720,
-    "h": 1280
    },
    {
     "src": "assets/sm-oxigenio.webp",
@@ -160,6 +148,30 @@ window.SITE_CONTENT = {
     "alt": "Capa da Imagine Company sobre influenciadores",
     "w": 720,
     "h": 900
+   },
+   {
+    "src": "assets/uploads/1-p48w9.webp",
+    "w": 1080,
+    "h": 1350,
+    "alt": "1"
+   },
+   {
+    "src": "assets/uploads/1-pzj0k.webp",
+    "w": 1080,
+    "h": 1350,
+    "alt": "1"
+   },
+   {
+    "src": "assets/uploads/1-eseky.webp",
+    "w": 1080,
+    "h": 1351,
+    "alt": "1"
+   },
+   {
+    "src": "assets/uploads/1-5vh3h.webp",
+    "w": 1080,
+    "h": 1350,
+    "alt": "1"
    }
   ]
  },
@@ -729,7 +741,15 @@ window.SITE_CONTENT = {
    "Stories",
    "Panfletos"
   ],
-  "items": [],
+  "items": [
+   {
+    "src": "assets/uploads/dia-dos-pais-hk80n.webp",
+    "w": 900,
+    "h": 1600,
+    "alt": "Dia dos Pais",
+    "client": "Bunny Arts"
+   }
+  ],
   "foot": {
    "text": "Peças entregues para a Imagine Company e para o Matheus Ferraz, com prazo combinado.",
    "btn": {
@@ -1084,21 +1104,21 @@ window.SITE_CONTENT = {
    {
     "label": "Chamar no WhatsApp",
     "type": "whatsapp",
-    "url": "s",
+    "url": "https://w.app/kiw28x",
     "msg": "Olá! Vim pelo site da Bunny Arts e quero conversar sobre um projeto.",
     "style": "light"
    },
    {
     "label": "Instagram",
     "type": "instagram",
-    "url": "s",
+    "url": "https://www.instagram.com/bunnyartsdesigner?stkn=ZDNlZDc0MzIxNw==",
     "msg": "",
     "style": "ghost"
    },
    {
-    "label": "E-mail",
+    "label": "",
     "type": "email",
-    "url": "s",
+    "url": "",
     "msg": "Olá! Vim pelo site da Bunny Arts e quero conversar sobre um projeto.",
     "style": "ghost"
    }
